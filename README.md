@@ -1,7 +1,20 @@
 # beepalert
 ### Requirements
+* Linux or macOS
+* Node.js
+* npm
+* perl
+
 ### Usage
 **install**
+```bash
+npm install -g TakutoYoshikai/beepalert
+```
+
+**play beep sound**
+```bash
+beepalert
+```
 
 ### Contributing
 
