@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+for i in {1..10}
+do
+  perl -e 'print "\a"'
+  sleep 0.1
+done
+
